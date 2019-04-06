@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "900290722586",
+    "firebase_url": "https://onedrinkreact.firebaseio.com",
+    "project_id": "onedrinkreact",
+    "storage_bucket": "onedrinkreact.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900290722586:android:6e5625687254ba36",
+        "android_client_info": {
+          "package_name": "com.malt.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl9eRUt4LMtg0Gtok9DHAeD2Rp5isEmL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900290722586-fmu6hnlhkologpd3jtqvb9ggusju9f95.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900290722586:android:70a82f3cb135d433",
+        "android_client_info": {
+          "package_name": "com.onedrink"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl9eRUt4LMtg0Gtok9DHAeD2Rp5isEmL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900290722586-fmu6hnlhkologpd3jtqvb9ggusju9f95.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
